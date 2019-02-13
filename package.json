@@ -1,0 +1,15 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bernarda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
